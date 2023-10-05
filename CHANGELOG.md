@@ -11,6 +11,7 @@ about why a change log is important.
 ### Added
 - Add support for Rails 7.1 (#166)
 - Add official support for Ruby 3.2 (#157)
+- Add support for Rails 7.1 (#166)
 
 ### Changed
 
